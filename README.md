@@ -1,6 +1,6 @@
 # go-jwt-middleware
 json web token middleware
-
+(The framework doesn't matter, but it's using Gin.)
 ## Requirements
 
 * Go >= 1.14
